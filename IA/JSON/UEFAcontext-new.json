@@ -1,0 +1,971 @@
+[
+    {
+        "contexte": "Le 6 juillet 1960 (06/07/1960) à 20h00, France a joué contre Yougoslavie lors de Demi finales. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 26370 spectateurs. Le score final était de 4 - 5. Le vainqueur était Yougoslavie."
+    },
+    {
+        "contexte": "Le 6 juillet 1960 (06/07/1960) à 21h30, Tchécoslovaquie a joué contre Union soviétique lors de Demi finales. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 25184 spectateurs. Le score final était de 0 - 3. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 9 juillet 1960 (09/07/1960) à 21h30, Tchécoslovaquie a joué contre France lors de Barrage pour la troisième place. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 9438 spectateurs. Le score final était de 2 - 0. Le vainqueur était Tchécoslovaquie."
+    },
+    {
+        "contexte": "Le 10 juillet 1960 (10/07/1960) à 21h30, Union soviétique a joué contre Yougoslavie lors de Final. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 17966 spectateurs. Le score final était de 2 - 1. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 17 juin 1964 (17/06/1964) à 20h00, Espagne a joué contre Hongrie lors de Demi finales. Le match a eu lieu au Santiago Bernabéu à Madrid, avec une affluence de 34713 spectateurs. Le score final était de 2 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 17 juin 1964 (17/06/1964) à 22h30, Danemark a joué contre Union soviétique lors de Demi finales. Le match a eu lieu au Camp Nou à Barcelone, avec une affluence de 38556 spectateurs. Le score final était de 0 - 3. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 20 juin 1964 (20/06/1964) à 20h00, Hongrie a joué contre Danemark lors de Barrage pour la troisième place. Le match a eu lieu au Camp Nou à Barcelone, avec une affluence de 3869 spectateurs. Le score final était de 3 - 1. Le vainqueur était Hongrie."
+    },
+    {
+        "contexte": "Le 21 juin 1964 (21/06/1964) à 18h30, Espagne a joué contre Union soviétique lors de Final. Le match a eu lieu au Santiago Bernabéu à Madrid, avec une affluence de 79115 spectateurs. Le score final était de 2 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 5 juin 1968 (05/06/1968) à 18h00, Italie a joué contre Union soviétique lors de Demi finales. Le match a eu lieu au Stade San Paolo à Naples, avec une affluence de 68582 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 5 juin 1968 (05/06/1968) à 21h15, Yougoslavie a joué contre Angleterre lors de Demi finales. Le match a eu lieu au Stade Communal à Florence, avec une affluence de 21834 spectateurs. Le score final était de 1 - 0. Le vainqueur était Yougoslavie."
+    },
+    {
+        "contexte": "Le 8 juin 1968 (08/06/1968) à 15h00, Angleterre a joué contre Union soviétique lors de Barrage pour la troisième place. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 68817 spectateurs. Le score final était de 2 - 0. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 8 juin 1968 (08/06/1968) à 21h15, Italie a joué contre Yougoslavie lors de Final. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 68817 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 10 juin 1968 (10/06/1968) à 21h15, Italie a joué contre Yougoslavie lors de Final. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 32886 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 14 juin 1972 (1972-06-14) à 20h00, Hongrie a joué contre Union soviétique lors de Demi finales. Le match a eu lieu au Stade Emile Versé à Bruxelles, avec une affluence de 1659 spectateurs. Le score final était de 0 - 1. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 14 juin 1972 (1972-06-14) à 20h00, Belgique a joué contre Allemagne de l'Ouest lors de Demi finales. Le match a eu lieu au Stade du Bosuil à Anvers, avec une affluence de 55669 spectateurs. Le score final était de 1 - 2. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 17 juin 1972 (17/06/1972) à 20h00, Hongrie a joué contre Belgique lors de Barrage pour la troisième place. Le match a eu lieu au Stade Maurice-Dufrasne à Liege, avec une affluence de 6184 spectateurs. Le score final était de 1 - 2. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 18 juin 1972 (18/06/1972) à 16h00, Allemagne de l'Ouest a joué contre Union soviétique lors de Final. Le match a eu lieu au Stade du Heysel à Bruxelles, avec une affluence de 43066 spectateurs. Le score final était de 3 - 0. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 16 juin 1976 (16/06/1976) à 20h15, Tchécoslovaquie a joué contre Pays-Bas lors de Demi finales. Le match a eu lieu au Stade Maksimir à Zagreb, avec une affluence de 17879 spectateurs. Le score final était de 3 - 1. Le vainqueur était Tchécoslovaquie."
+    },
+    {
+        "contexte": "Le 17 juin 1976 (17/06/1976) à 20h15, Yougoslavie a joué contre Allemagne de l'Ouest lors de Demi finales. Le match a eu lieu au Stade de l'Etoile Rouge à Belgrade, avec une affluence de 50652 spectateurs. Le score final était de 2 - 4. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 19 juin 1976 (19/06/1976) à 20h15, Pays-Bas a joué contre Yougoslavie lors de Barrage pour la troisième place. Le match a eu lieu au Stade Maksimir à Zagreb, avec une affluence de 6766 spectateurs. Le score final était de 3 - 2. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 20 juin 1976 (20/06/1976) à 20h15, Tchécoslovaquie a joué contre Allemagne de l'Ouest lors de Final. Le match a eu lieu au Stade de l'Etoile Rouge à Belgrade, avec une affluence de 30790 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 1980 (1980-06-11) à 17h45, Tchécoslovaquie a joué contre Allemagne de l'Ouest lors de Groupe 1. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 10500 spectateurs. Le score final était de 0 - 1. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 11 juin 1980 (1980-06-11) à 20h30, Pays-Bas a joué contre Grèce lors de Groupe 1. Le match a eu lieu au Stade San Paolo à Naples, avec une affluence de 14990 spectateurs. Le score final était de 1 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 14 juin 1980 (1980-06-14) à 17h45, Allemagne de l'Ouest a joué contre Pays-Bas lors de Groupe 1. Le match a eu lieu au Stade San Paolo à Naples, avec une affluence de 29889 spectateurs. Le score final était de 3 - 2. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 14 juin 1980 (1980-06-14) à 20h30, Grèce a joué contre Tchécoslovaquie lors de Groupe 1. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 7614 spectateurs. Le score final était de 1 - 3. Le vainqueur était Tchécoslovaquie."
+    },
+    {
+        "contexte": "Le 17 juin 1980 (17/06/1980) à 17h45, Pays-Bas a joué contre Tchécoslovaquie lors de Groupe 1. Le match a eu lieu au San Siro à Milan, avec une affluence de 11889 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 17 juin 1980 (17/06/1980) à 20h30, Grèce a joué contre Allemagne de l'Ouest lors de Groupe 1. Le match a eu lieu au Stade Communal à Turin, avec une affluence de 13901 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 12 juin 1980 (1980-06-12) à 17h45, Belgique a joué contre Angleterre lors de Groupe 2. Le match a eu lieu au Stade Communal à Turin, avec une affluence de 15186 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 12 juin 1980 (1980-06-12) à 20h30, Espagne a joué contre Italie lors de Groupe 2. Le match a eu lieu au San Siro à Milan, avec une affluence de 46337 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 15 juin 1980 (15/06/1980) à 17h45, Belgique a joué contre Espagne lors de Groupe 2. Le match a eu lieu au San Siro à Milan, avec une affluence de 11430 spectateurs. Le score final était de 2 - 1. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 15 juin 1980 (15/06/1980) à 20h30, Angleterre a joué contre Italie lors de Groupe 2. Le match a eu lieu au Stade Communal à Turin, avec une affluence de 59649 spectateurs. Le score final était de 0 - 1. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 18 juin 1980 (18/06/1980) à 17h45, Espagne a joué contre Angleterre lors de Groupe 2. Le match a eu lieu au Stade San Paolo à Naples, avec une affluence de 14440 spectateurs. Le score final était de 1 - 2. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 18 juin 1980 (18/06/1980) à 20h30, Italie a joué contre Belgique lors de Groupe 2. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 42318 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 21 juin 1980 (21/06/1980) à 20h30, Tchécoslovaquie a joué contre Italie lors de Barrage pour la troisième place. Le match a eu lieu au Stade San Paolo à Naples, avec une affluence de 24652 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 22 juin 1980 (22/06/1980) à 20h30, Belgique a joué contre Allemagne de l'Ouest lors de Final. Le match a eu lieu au Stade olympique à Rome, avec une affluence de 47860 spectateurs. Le score final était de 1 - 2. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 12 juin 1984 (1984-06-12) à 20h30, France a joué contre Danemark lors de Groupe 1. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 47570 spectateurs. Le score final était de 1 - 0. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 13 juin 1984 (1984-06-13) à 20h30, Belgique a joué contre Yougoslavie lors de Groupe 1. Le match a eu lieu au Stade Félix-Bollaert à Lentille, avec une affluence de 41525 spectateurs. Le score final était de 2 - 0. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 16 juin 1984 (16/06/1984) à 17h15, France a joué contre Belgique lors de Groupe 1. Le match a eu lieu au Stade de la Beaujoire à Nantes, avec une affluence de 51359 spectateurs. Le score final était de 5 - 0. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 16 juin 1984 (16/06/1984) à 20h30, Danemark a joué contre Yougoslavie lors de Groupe 1. Le match a eu lieu au Stade de Gerland à Lyon, avec une affluence de 34736 spectateurs. Le score final était de 5 - 0. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 19 juin 1984 (19/06/1984) à 20h30, France a joué contre Yougoslavie lors de Groupe 1. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 47510 spectateurs. Le score final était de 3 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 19 juin 1984 (19/06/1984) à 20h30, Danemark a joué contre Belgique lors de Groupe 1. Le match a eu lieu au Stade de la Meinau à Strasbourg, avec une affluence de 36911 spectateurs. Le score final était de 3 - 2. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 14 juin 1984 (1984-06-14) à 17h15, Allemagne de l'Ouest a joué contre le Portugal lors de Groupe 2. Le match a eu lieu au Stade de la Meinau à Strasbourg, avec une affluence de 44707 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 14 juin 1984 (1984-06-14) à 20h30, Roumanie a joué contre Espagne lors de Groupe 2. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 16972 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 17 juin 1984 (17/06/1984) à 17h15, Allemagne de l'Ouest a joué contre Roumanie lors de Groupe 2. Le match a eu lieu au Stade Félix-Bollaert à Lentille, avec une affluence de 31787 spectateurs. Le score final était de 2 - 1. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 17 juin 1984 (17/06/1984) à 20h30, le Portugal a joué contre Espagne lors de Groupe 2. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 24364 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 20 juin 1984 (20/06/1984) à 20h30, Allemagne de l'Ouest a joué contre Espagne lors de Groupe 2. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 47691 spectateurs. Le score final était de 0 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 20 juin 1984 (20/06/1984) à 20h30, le Portugal a joué contre Roumanie lors de Groupe 2. Le match a eu lieu au Stade de la Beaujoire à Nantes, avec une affluence de 24464 spectateurs. Le score final était de 1 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 23 juin 1984 (23/06/1984) à 20h00, France a joué contre le Portugal lors de Demi finales. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 54848 spectateurs. Le score final était de 3 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 24 juin 1984 (24/06/1984) à 20h00, Danemark a joué contre Espagne lors de Demi finales. Le match a eu lieu au Stade de Gerland à Lyon, avec une affluence de 47843 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 27 juin 1984 (27/06/1984) à 20h00, France a joué contre Espagne lors de Final. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 47368 spectateurs. Le score final était de 2 - 0. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 10 juin 1988 (10/06/1988) à 20h15, Allemagne de l'Ouest a joué contre Italie lors de Groupe 1. Le match a eu lieu au Stade du Rhin à Dusseldorf, avec une affluence de 62552 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 1988 (1988-06-11) à 15h30, Danemark a joué contre Espagne lors de Groupe 1. Le match a eu lieu au Stade du Bas-Sachsen à Hanovre, avec une affluence de 55707 spectateurs. Le score final était de 2 - 3. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 14 juin 1988 (1988-06-14) à 17h15, Allemagne de l'Ouest a joué contre Danemark lors de Groupe 1. Le match a eu lieu au Stade du Parc à Gelsenkirchen, avec une affluence de 64812 spectateurs. Le score final était de 2 - 0. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 14 juin 1988 (1988-06-14) à 20h15, Italie a joué contre Espagne lors de Groupe 1. Le match a eu lieu au Stade Wald à Francfort, avec une affluence de 47506 spectateurs. Le score final était de 1 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 17 juin 1988 (17/06/1988) à 20h15, Allemagne de l'Ouest a joué contre Espagne lors de Groupe 1. Le match a eu lieu au Stade olympique à Munich, avec une affluence de 63802 spectateurs. Le score final était de 2 - 0. Le vainqueur était Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le 17 juin 1988 (17/06/1988) à 20h15, Italie a joué contre Danemark lors de Groupe 1. Le match a eu lieu au Stade Mungersdorfer à Eau de Cologne, avec une affluence de 53951 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 12 juin 1988 (1988-06-12) à 15h30, Angleterre a joué contre République d'Irlande lors de Groupe 2. Le match a eu lieu au Stade du Neckar à Stuttgart, avec une affluence de 51373 spectateurs. Le score final était de 0 - 1. Le vainqueur était République d'Irlande."
+    },
+    {
+        "contexte": "Le 12 juin 1988 (1988-06-12) à 20h15, Pays-Bas a joué contre Union soviétique lors de Groupe 2. Le match a eu lieu au Stade Mungersdorfer à Eau de Cologne, avec une affluence de 54336 spectateurs. Le score final était de 0 - 1. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 15 juin 1988 (15/06/1988) à 17h15, Angleterre a joué contre Pays-Bas lors de Groupe 2. Le match a eu lieu au Stade du Rhin à Dusseldorf, avec une affluence de 63940 spectateurs. Le score final était de 1 - 3. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 15 juin 1988 (15/06/1988) à 20h15, République d'Irlande a joué contre Union soviétique lors de Groupe 2. Le match a eu lieu au Stade du Bas-Sachsen à Hanovre, avec une affluence de 38308 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 1988 (18/06/1988) à 15h30, Angleterre a joué contre Union soviétique lors de Groupe 2. Le match a eu lieu au Stade Wald à Francfort, avec une affluence de 48335 spectateurs. Le score final était de 1 - 3. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 18 juin 1988 (18/06/1988) à 15h30, République d'Irlande a joué contre Pays-Bas lors de Groupe 2. Le match a eu lieu au Stade du Parc à Gelsenkirchen, avec une affluence de 64731 spectateurs. Le score final était de 0 - 1. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 21 juin 1988 (21/06/1988) à 20h15, Allemagne de l'Ouest a joué contre Pays-Bas lors de Demi finales. Le match a eu lieu au Stade Volkspark à Hambourg, avec une affluence de 56115 spectateurs. Le score final était de 1 - 2. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 22 juin 1988 (22/06/1988) à 20h15, Union soviétique a joué contre Italie lors de Demi finales. Le match a eu lieu au Stade du Neckar à Stuttgart, avec une affluence de 61606 spectateurs. Le score final était de 2 - 0. Le vainqueur était Union soviétique."
+    },
+    {
+        "contexte": "Le 25 juin 1988 (25/06/1988) à 15h30, Union soviétique a joué contre Pays-Bas lors de Final. Le match a eu lieu au Stade olympique à Munich, avec une affluence de 62770 spectateurs. Le score final était de 0 - 2. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 10 juin 1992 (10/06/1992) à 20h15, Suède a joué contre France lors de Groupe 1. Le match a eu lieu au Stade Rasunda à Solna, avec une affluence de 29860 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 1992 (1992-06-11) à 20h15, Danemark a joué contre Angleterre lors de Groupe 1. Le match a eu lieu au Stade de Malmo à Malmo, avec une affluence de 26385 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 14 juin 1992 (1992-06-14) à 17h15, France a joué contre Angleterre lors de Groupe 1. Le match a eu lieu au Stade de Malmo à Malmo, avec une affluence de 26535 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 14 juin 1992 (1992-06-14) à 20h15, Suède a joué contre Danemark lors de Groupe 1. Le match a eu lieu au Stade Rasunda à Solna, avec une affluence de 29902 spectateurs. Le score final était de 1 - 0. Le vainqueur était Suède."
+    },
+    {
+        "contexte": "Le 17 juin 1992 (1992-06-17) à 20h15, Suède a joué contre Angleterre lors de Groupe 1. Le match a eu lieu au Stade Rasunda à Solna, avec une affluence de 30126 spectateurs. Le score final était de 2 - 1. Le vainqueur était Suède."
+    },
+    {
+        "contexte": "Le 17 juin 1992 (1992-06-17) à 20h15, France a joué contre Danemark lors de Groupe 1. Le match a eu lieu au Stade de Malmo à Malmo, avec une affluence de 25763 spectateurs. Le score final était de 1 - 2. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 12 juin 1992 (1992-06-12) à 17h15, Pays-Bas a joué contre Ecosse lors de Groupe 2. Le match a eu lieu au Ullevi à Goteborg, avec une affluence de 35720 spectateurs. Le score final était de 1 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 12 juin 1992 (1992-06-12) à 20h15, CEI a joué contre Allemagne lors de Groupe 2. Le match a eu lieu au Idrottsparken à Norrkoping, avec une affluence de 17410 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 15 juin 1992 (1992-06-15) à 17h15, Ecosse a joué contre Allemagne lors de Groupe 2. Le match a eu lieu au Idrottsparken à Norrkoping, avec une affluence de 17638 spectateurs. Le score final était de 0 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 15 juin 1992 (1992-06-15) à 20h15, Pays-Bas a joué contre CEI lors de Groupe 2. Le match a eu lieu au Ullevi à Goteborg, avec une affluence de 34440 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 1992 (1992-06-18) à 20h15, Pays-Bas a joué contre Allemagne lors de Groupe 2. Le match a eu lieu au Ullevi à Goteborg, avec une affluence de 37725 spectateurs. Le score final était de 3 - 1. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 18 juin 1992 (1992-06-18) à 20h15, Ecosse a joué contre CEI lors de Groupe 2. Le match a eu lieu au Idrottsparken à Norrkoping, avec une affluence de 14660 spectateurs. Le score final était de 3 - 0. Le vainqueur était Ecosse."
+    },
+    {
+        "contexte": "Le 21 juin 1992 (21/06/1992) à 20h15, Suède a joué contre Allemagne lors de Demi finales. Le match a eu lieu au Stade Rasunda à Solna, avec une affluence de 28827 spectateurs. Le score final était de 2 - 3. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 22 juin 1992 (22/06/1992) à 20h15, Pays-Bas a joué contre Danemark lors de Demi finales. Le match a eu lieu au Ullevi à Goteborg, avec une affluence de 37450 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 26 juin 1992 (26/06/1992) à 20h15, Danemark a joué contre Allemagne lors de Final. Le match a eu lieu au Ullevi à Goteborg, avec une affluence de 37800 spectateurs. Le score final était de 2 - 0. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 8 juin 1996 (08/06/1996) à 15h00, Angleterre a joué contre Suisse lors de groupe A. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 76567 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 10 juin 1996 (1996-06-10) à 16h30, Pays-Bas a joué contre Ecosse lors de groupe A. Le match a eu lieu au Parc des Villas à Birmingham, avec une affluence de 34363 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 13 juin 1996 (1996-06-13) à 19h30, Suisse a joué contre Pays-Bas lors de groupe A. Le match a eu lieu au Parc des Villas à Birmingham, avec une affluence de 36800 spectateurs. Le score final était de 0 - 2. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 15 juin 1996 (1996-06-15) à 15h00, Ecosse a joué contre Angleterre lors de groupe A. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 76864 spectateurs. Le score final était de 0 - 2. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 18 juin 1996 (1996-06-18) à 19h30, Ecosse a joué contre Suisse lors de groupe A. Le match a eu lieu au Parc des Villas à Birmingham, avec une affluence de 34926 spectateurs. Le score final était de 1 - 0. Le vainqueur était Ecosse."
+    },
+    {
+        "contexte": "Le 18 juin 1996 (1996-06-18) à 19h30, Pays-Bas a joué contre Angleterre lors de groupe A. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 76798 spectateurs. Le score final était de 1 - 4. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 9 juin 1996 (09/06/1996) à 14h30, Espagne a joué contre Bulgarie lors de Groupe B. Le match a eu lieu au Route d'Elland à Leeds, avec une affluence de 24006 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 10 juin 1996 (1996-06-10) à 19h30, Roumanie a joué contre France lors de Groupe B. Le match a eu lieu au Parc Saint-James à Newcastle, avec une affluence de 26323 spectateurs. Le score final était de 0 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 13 juin 1996 (1996-06-13) à 16h30, Bulgarie a joué contre Roumanie lors de Groupe B. Le match a eu lieu au Parc Saint-James à Newcastle, avec une affluence de 19107 spectateurs. Le score final était de 1 - 0. Le vainqueur était Bulgarie."
+    },
+    {
+        "contexte": "Le 15 juin 1996 (1996-06-15) à 18h00, France a joué contre Espagne lors de Groupe B. Le match a eu lieu au Route d'Elland à Leeds, avec une affluence de 35626 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 1996 (1996-06-18) à 16h30, France a joué contre Bulgarie lors de Groupe B. Le match a eu lieu au Parc Saint-James à Newcastle, avec une affluence de 26976 spectateurs. Le score final était de 3 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 18 juin 1996 (1996-06-18) à 16h30, Roumanie a joué contre Espagne lors de Groupe B. Le match a eu lieu au Route d'Elland à Leeds, avec une affluence de 32719 spectateurs. Le score final était de 1 - 2. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 9 juin 1996 (09/06/1996) à 17h00, Allemagne a joué contre République tchèque lors de Groupe C. Le match a eu lieu au Old Trafford à Manchester, avec une affluence de 37300 spectateurs. Le score final était de 2 - 0. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 11 juin 1996 (1996-06-11) à 16h30, Italie a joué contre Russie lors de Groupe C. Le match a eu lieu au Anfield à Liverpool, avec une affluence de 35120 spectateurs. Le score final était de 2 - 1. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 14 juin 1996 (1996-06-14) à 19h30, République tchèque a joué contre Italie lors de Groupe C. Le match a eu lieu au Anfield à Liverpool, avec une affluence de 37320 spectateurs. Le score final était de 2 - 1. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 16 juin 1996 (16/06/1996) à 15h00, Russie a joué contre Allemagne lors de Groupe C. Le match a eu lieu au Old Trafford à Manchester, avec une affluence de 50760 spectateurs. Le score final était de 0 - 3. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 19 juin 1996 (1996-06-19) à 19h30, Russie a joué contre République tchèque lors de Groupe C. Le match a eu lieu au Anfield à Liverpool, avec une affluence de 21128 spectateurs. Le score final était de 3 - 3. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 19 juin 1996 (1996-06-19) à 19h30, Italie a joué contre Allemagne lors de Groupe C. Le match a eu lieu au Old Trafford à Manchester, avec une affluence de 53740 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 9 juin 1996 (09/06/1996) à 19h30, Danemark a joué contre le Portugal lors de Groupe D. Le match a eu lieu au Hillsborough à Sheffield, avec une affluence de 34993 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 1996 (1996-06-11) à 19h30, Turquie a joué contre Croatie lors de Groupe D. Le match a eu lieu au Terrain de la ville à Nottingham, avec une affluence de 22460 spectateurs. Le score final était de 0 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 14 juin 1996 (1996-06-14) à 16h30, le Portugal a joué contre Turquie lors de Groupe D. Le match a eu lieu au Terrain de la ville à Nottingham, avec une affluence de 22670 spectateurs. Le score final était de 1 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 16 juin 1996 (16/06/1996) à 18h00, Croatie a joué contre Danemark lors de Groupe D. Le match a eu lieu au Hillsborough à Sheffield, avec une affluence de 33671 spectateurs. Le score final était de 3 - 0. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 19 juin 1996 (1996-06-19) à 16h30, Croatie a joué contre le Portugal lors de Groupe D. Le match a eu lieu au Terrain de la ville à Nottingham, avec une affluence de 20484 spectateurs. Le score final était de 0 - 3. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 19 juin 1996 (1996-06-19) à 16h30, Turquie a joué contre Danemark lors de Groupe D. Le match a eu lieu au Hillsborough à Sheffield, avec une affluence de 28951 spectateurs. Le score final était de 0 - 3. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 22 juin 1996 (22/06/1996) à 15h00, Espagne a joué contre Angleterre lors de Quarts de finale. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 75440 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 22 juin 1996 (22/06/1996) à 18h30, France a joué contre Pays-Bas lors de Quarts de finale. Le match a eu lieu au Anfield à Liverpool, avec une affluence de 37465 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 23 juin 1996 (23/06/1996) à 15h00, Allemagne a joué contre Croatie lors de Quarts de finale. Le match a eu lieu au Old Trafford à Manchester, avec une affluence de 43412 spectateurs. Le score final était de 2 - 1. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 23 juin 1996 (23/06/1996) à 18h30, République tchèque a joué contre le Portugal lors de Quarts de finale. Le match a eu lieu au Parc des Villas à Birmingham, avec une affluence de 26832 spectateurs. Le score final était de 1 - 0. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 26 juin 1996 (26/06/1996) à 16h00, France a joué contre République tchèque lors de Demi finales. Le match a eu lieu au Old Trafford à Manchester, avec une affluence de 43877 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 26 juin 1996 (26/06/1996) à 19h30, Allemagne a joué contre Angleterre lors de Demi finales. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 75862 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 30 juin 1996 (30/06/1996) à 19h00, République tchèque a joué contre Allemagne lors de Final. Le match a eu lieu au Stade de Wembley à Londres, avec une affluence de 73611 spectateurs. Le score final était de 1 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 12 juin 2000 (2000-06-12) à 18h00, Allemagne a joué contre Roumanie lors de groupe A. Le match a eu lieu au Stade Maurice-Dufrasne à Liege, avec une affluence de 28500 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 12 juin 2000 (2000-06-12) à 20h45, le Portugal a joué contre Angleterre lors de groupe A. Le match a eu lieu au Stade Philips à Eindhoven, avec une affluence de 31500 spectateurs. Le score final était de 3 - 2. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 17 juin 2000 (17/06/2000) à 18h00, Roumanie a joué contre le Portugal lors de groupe A. Le match a eu lieu au GelreDome à Arnhem, avec une affluence de 28400 spectateurs. Le score final était de 0 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 17 juin 2000 (17/06/2000) à 20h45, Angleterre a joué contre Allemagne lors de groupe A. Le match a eu lieu au Stade du Pays de Charleroi à Charleroi, avec une affluence de 29000 spectateurs. Le score final était de 1 - 0. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 20 juin 2000 (2000-06-20) à 20h45, Angleterre a joué contre Roumanie lors de groupe A. Le match a eu lieu au Stade du Pays de Charleroi à Charleroi, avec une affluence de 30000 spectateurs. Le score final était de 2 - 3. Le vainqueur était Roumanie."
+    },
+    {
+        "contexte": "Le 20 juin 2000 (2000-06-20) à 20h45, le Portugal a joué contre Allemagne lors de groupe A. Le match a eu lieu au Stade Feijenoord à Rotterdam, avec une affluence de 44000 spectateurs. Le score final était de 3 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 10 juin 2000 (2000-06-10) à 20h45, Belgique a joué contre Suède lors de Groupe B. Le match a eu lieu au Stade Roi Baudouin à Bruxelles, avec une affluence de 46700 spectateurs. Le score final était de 2 - 1. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 11 juin 2000 (2000-06-11) à 14h30, Turquie a joué contre Italie lors de Groupe B. Le match a eu lieu au GelreDome à Arnhem, avec une affluence de 22500 spectateurs. Le score final était de 1 - 2. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 14 juin 2000 (2000-06-14) à 20h45, Italie a joué contre Belgique lors de Groupe B. Le match a eu lieu au Stade Roi Baudouin à Bruxelles, avec une affluence de 44500 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 15 juin 2000 (2000-06-15) à 20h45, Suède a joué contre Turquie lors de Groupe B. Le match a eu lieu au Stade Philips à Eindhoven, avec une affluence de 27000 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 19 juin 2000 (2000-06-19) à 20h45, Turquie a joué contre Belgique lors de Groupe B. Le match a eu lieu au Stade Roi Baudouin à Bruxelles, avec une affluence de 48000 spectateurs. Le score final était de 2 - 0. Le vainqueur était Turquie."
+    },
+    {
+        "contexte": "Le 19 juin 2000 (2000-06-19) à 20h45, Italie a joué contre Suède lors de Groupe B. Le match a eu lieu au Stade Philips à Eindhoven, avec une affluence de 30000 spectateurs. Le score final était de 2 - 1. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 13 juin 2000 (2000-06-13) à 18h00, Espagne a joué contre Norvège lors de Groupe C. Le match a eu lieu au Stade Feijenoord à Rotterdam, avec une affluence de 41000 spectateurs. Le score final était de 0 - 1. Le vainqueur était Norvège."
+    },
+    {
+        "contexte": "Le 13 juin 2000 (2000-06-13) à 20h45, RF de Yougoslavie a joué contre Slovénie lors de Groupe C. Le match a eu lieu au Stade du Pays de Charleroi à Charleroi, avec une affluence de 18500 spectateurs. Le score final était de 3 - 3. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 2000 (2000-06-18) à 18h00, Slovénie a joué contre Espagne lors de Groupe C. Le match a eu lieu au Arène d'Amsterdam à Amsterdam, avec une affluence de 51300 spectateurs. Le score final était de 1 - 2. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 18 juin 2000 (2000-06-18) à 20h45, Norvège a joué contre RF de Yougoslavie lors de Groupe C. Le match a eu lieu au Stade Maurice-Dufrasne à Liege, avec une affluence de 28750 spectateurs. Le score final était de 0 - 1. Le vainqueur était RF de Yougoslavie."
+    },
+    {
+        "contexte": "Le 21 juin 2000 (2000-06-21) à 18h00, RF de Yougoslavie a joué contre Espagne lors de Groupe C. Le match a eu lieu au Stade Jan-Breydel à Bruges, avec une affluence de 26611 spectateurs. Le score final était de 3 - 4. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 21 juin 2000 (2000-06-21) à 18h00, Slovénie a joué contre Norvège lors de Groupe C. Le match a eu lieu au GelreDome à Arnhem, avec une affluence de 21000 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 2000 (2000-06-11) à 18h00, France a joué contre Danemark lors de Groupe D. Le match a eu lieu au Stade Jan-Breydel à Bruges, avec une affluence de 28100 spectateurs. Le score final était de 3 - 0. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 11 juin 2000 (2000-06-11) à 20h45, Pays-Bas a joué contre République tchèque lors de Groupe D. Le match a eu lieu au Arène d'Amsterdam à Amsterdam, avec une affluence de 50800 spectateurs. Le score final était de 1 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 16 juin 2000 (2000-06-16) à 18h00, République tchèque a joué contre France lors de Groupe D. Le match a eu lieu au Stade Jan-Breydel à Bruges, avec une affluence de 27243 spectateurs. Le score final était de 1 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 16 juin 2000 (2000-06-16) à 20h45, Danemark a joué contre Pays-Bas lors de Groupe D. Le match a eu lieu au Stade Feijenoord à Rotterdam, avec une affluence de 51425 spectateurs. Le score final était de 0 - 3. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 21 juin 2000 (2000-06-21) à 20h45, Danemark a joué contre République tchèque lors de Groupe D. Le match a eu lieu au Stade Maurice-Dufrasne à Liege, avec une affluence de 20000 spectateurs. Le score final était de 0 - 2. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 21 juin 2000 (2000-06-21) à 20h45, France a joué contre Pays-Bas lors de Groupe D. Le match a eu lieu au Arène d'Amsterdam à Amsterdam, avec une affluence de 50000 spectateurs. Le score final était de 2 - 3. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 24 juin 2000 (2000-06-24) à 18h00, Turquie a joué contre le Portugal lors de Quarts de finale. Le match a eu lieu au Arène d'Amsterdam à Amsterdam, avec une affluence de 42000 spectateurs. Le score final était de 0 - 2. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 24 juin 2000 (2000-06-24) à 20h45, Italie a joué contre Roumanie lors de Quarts de finale. Le match a eu lieu au Stade Roi Baudouin à Bruxelles, avec une affluence de 41000 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 25 juin 2000 (2000-06-25) à 18h00, Pays-Bas a joué contre RF de Yougoslavie lors de Quarts de finale. Le match a eu lieu au Stade Feijenoord à Rotterdam, avec une affluence de 44000 spectateurs. Le score final était de 6 - 1. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 25 juin 2000 (2000-06-25) à 20h45, Espagne a joué contre France lors de Quarts de finale. Le match a eu lieu au Stade Jan-Breydel à Bruges, avec une affluence de 26614 spectateurs. Le score final était de 1 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 28 juin 2000 (2000-06-28) à 20h45, France a joué contre le Portugal lors de Demi finales. Le match a eu lieu au Stade Roi Baudouin à Bruxelles, avec une affluence de 48000 spectateurs. Le score final était de 2 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 29 juin 2000 (2000-06-29) à 18h00, Italie a joué contre Pays-Bas lors de Demi finales. Le match a eu lieu au Arène d'Amsterdam à Amsterdam, avec une affluence de 50000 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 2 juillet 2000 (02/07/2000) à 20h00, France a joué contre Italie lors de Final. Le match a eu lieu au De Kuip à Rotterdam, avec une affluence de 48200 spectateurs. Le score final était de 2 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 12 juin 2004 (2004-06-12) à 17h00, le Portugal a joué contre Grèce lors de groupe A. Le match a eu lieu au Stade du Dragon à Porto, avec une affluence de 48761 spectateurs. Le score final était de 1 - 2. Le vainqueur était Grèce."
+    },
+    {
+        "contexte": "Le 12 juin 2004 (2004-06-12) à 19h45, Espagne a joué contre Russie lors de groupe A. Le match a eu lieu au Stade Algarve à Faro/Loulé, avec une affluence de 28182 spectateurs. Le score final était de 1 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 16 juin 2004 (16/06/2004) à 17h00, Grèce a joué contre Espagne lors de groupe A. Le match a eu lieu au Stade de Bessa à Porto, avec une affluence de 25444 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 16 juin 2004 (16/06/2004) à 19h45, Russie a joué contre le Portugal lors de groupe A. Le match a eu lieu au Stade de Lumière à Lisbonne, avec une affluence de 59273 spectateurs. Le score final était de 0 - 2. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 20 juin 2004 (20/06/2004) à 19h45, Espagne a joué contre le Portugal lors de groupe A. Le match a eu lieu au Stade José Alvalade à Lisbonne, avec une affluence de 47491 spectateurs. Le score final était de 0 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 20 juin 2004 (20/06/2004) à 19h45, Russie a joué contre Grèce lors de groupe A. Le match a eu lieu au Stade Algarve à Faro/Loulé, avec une affluence de 24347 spectateurs. Le score final était de 2 - 1. Le vainqueur était Russie."
+    },
+    {
+        "contexte": "Le 13 juin 2004 (2004-06-13) à 17h00, Suisse a joué contre Croatie lors de Groupe B. Le match a eu lieu au Stade Dr. Magalhaes Pessoa à Leiria, avec une affluence de 24090 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 13 juin 2004 (2004-06-13) à 19h45, France a joué contre Angleterre lors de Groupe B. Le match a eu lieu au Stade de Lumière à Lisbonne, avec une affluence de 62487 spectateurs. Le score final était de 2 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 17 juin 2004 (2004-06-17) à 17h00, Angleterre a joué contre Suisse lors de Groupe B. Le match a eu lieu au Stade Ville de Coimbra à Coimbre, avec une affluence de 28214 spectateurs. Le score final était de 3 - 0. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 17 juin 2004 (2004-06-17) à 19h45, Croatie a joué contre France lors de Groupe B. Le match a eu lieu au Stade Dr. Magalhaes Pessoa à Leiria, avec une affluence de 29160 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 21 juin 2004 (2004-06-21) à 19h45, Croatie a joué contre Angleterre lors de Groupe B. Le match a eu lieu au Stade de Lumière à Lisbonne, avec une affluence de 57047 spectateurs. Le score final était de 2 - 4. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 21 juin 2004 (2004-06-21) à 19h45, Suisse a joué contre France lors de Groupe B. Le match a eu lieu au Stade Ville de Coimbra à Coimbre, avec une affluence de 28111 spectateurs. Le score final était de 1 - 3. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 14 juin 2004 (2004-06-14) à 17h00, Danemark a joué contre Italie lors de Groupe C. Le match a eu lieu au Stade D. Afonso Henriques à Guimaraes, avec une affluence de 19595 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 14 juin 2004 (2004-06-14) à 19h45, Suède a joué contre Bulgarie lors de Groupe C. Le match a eu lieu au Stade José Alvalade à Lisbonne, avec une affluence de 31652 spectateurs. Le score final était de 5 - 0. Le vainqueur était Suède."
+    },
+    {
+        "contexte": "Le 18 juin 2004 (18/06/2004) à 17h00, Bulgarie a joué contre Danemark lors de Groupe C. Le match a eu lieu au Stade Municipal de Braga à Braga, avec une affluence de 24131 spectateurs. Le score final était de 0 - 2. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 18 juin 2004 (18/06/2004) à 19h45, Italie a joué contre Suède lors de Groupe C. Le match a eu lieu au Stade du Dragon à Porto, avec une affluence de 44926 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 22 juin 2004 (2004-06-22) à 19h45, Italie a joué contre Bulgarie lors de Groupe C. Le match a eu lieu au Stade D. Afonso Henriques à Guimaraes, avec une affluence de 16002 spectateurs. Le score final était de 2 - 1. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 22 juin 2004 (2004-06-22) à 19h45, Danemark a joué contre Suède lors de Groupe C. Le match a eu lieu au Stade de Bessa à Porto, avec une affluence de 26115 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 15 juin 2004 (2004-06-15) à 17h00, République tchèque a joué contre Lettonie lors de Groupe D. Le match a eu lieu au Stade municipal d'Aveiro à Aveiro, avec une affluence de 21744 spectateurs. Le score final était de 2 - 1. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 15 juin 2004 (2004-06-15) à 19h45, Allemagne a joué contre Pays-Bas lors de Groupe D. Le match a eu lieu au Stade du Dragon à Porto, avec une affluence de 48197 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 19 juin 2004 (2004-06-19) à 17h00, Lettonie a joué contre Allemagne lors de Groupe D. Le match a eu lieu au Stade de Bessa à Porto, avec une affluence de 22344 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 19 juin 2004 (2004-06-19) à 19h45, Pays-Bas a joué contre République tchèque lors de Groupe D. Le match a eu lieu au Stade municipal d'Aveiro à Aveiro, avec une affluence de 29935 spectateurs. Le score final était de 2 - 3. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 23 juin 2004 (2004-06-23) à 19h45, Pays-Bas a joué contre Lettonie lors de Groupe D. Le match a eu lieu au Stade Municipal de Braga à Braga, avec une affluence de 27904 spectateurs. Le score final était de 3 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 23 juin 2004 (2004-06-23) à 19h45, Allemagne a joué contre République tchèque lors de Groupe D. Le match a eu lieu au Stade José Alvalade à Lisbonne, avec une affluence de 46849 spectateurs. Le score final était de 1 - 2. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 24 juin 2004 (2004-06-24) à 19h45, le Portugal a joué contre Angleterre lors de Quarts de finale. Le match a eu lieu au Stade de Lumière à Lisbonne, avec une affluence de 62564 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 25 juin 2004 (2004-06-25) à 19h45, France a joué contre Grèce lors de Quarts de finale. Le match a eu lieu au Stade José Alvalade à Lisbonne, avec une affluence de 45390 spectateurs. Le score final était de 0 - 1. Le vainqueur était Grèce."
+    },
+    {
+        "contexte": "Le 26 juin 2004 (2004-06-26) à 19h45, Suède a joué contre Pays-Bas lors de Quarts de finale. Le match a eu lieu au Stade Algarve à Faro/Loulé, avec une affluence de 27762 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 27 juin 2004 (2004-06-27) à 19h45, République tchèque a joué contre Danemark lors de Quarts de finale. Le match a eu lieu au Stade du Dragon à Porto, avec une affluence de 41092 spectateurs. Le score final était de 3 - 0. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 30 juin 2004 (30/06/2004) à 19h45, le Portugal a joué contre Pays-Bas lors de Demi finales. Le match a eu lieu au Stade José Alvalade à Lisbonne, avec une affluence de 46679 spectateurs. Le score final était de 2 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 1er juillet 2004 (01/07/2004) à 19h45, Grèce a joué contre République tchèque lors de Demi finales. Le match a eu lieu au Stade du Dragon à Porto, avec une affluence de 42449 spectateurs. Le score final était de 1 - 0. Le vainqueur était Grèce."
+    },
+    {
+        "contexte": "Le 4 juillet 2004 (04/07/2004) à 19h45, le Portugal a joué contre Grèce lors de Final. Le match a eu lieu au Stade de Lumière à Lisbonne, avec une affluence de 62865 spectateurs. Le score final était de 0 - 1. Le vainqueur était Grèce."
+    },
+    {
+        "contexte": "Le 7 juin 2008 (07/06/2008) à 18h00, Suisse a joué contre République tchèque lors de groupe A. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 39730 spectateurs. Le score final était de 0 - 1. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 7 juin 2008 (07/06/2008) à 20h45, le Portugal a joué contre Turquie lors de groupe A. Le match a eu lieu au Stade de Genève à Genève, avec une affluence de 29106 spectateurs. Le score final était de 2 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 11 juin 2008 (2008-06-11) à 18h00, République tchèque a joué contre le Portugal lors de groupe A. Le match a eu lieu au Stade de Genève à Genève, avec une affluence de 29016 spectateurs. Le score final était de 1 - 3. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 11 juin 2008 (2008-06-11) à 20h45, Suisse a joué contre Turquie lors de groupe A. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 39730 spectateurs. Le score final était de 1 - 2. Le vainqueur était Turquie."
+    },
+    {
+        "contexte": "Le 15 juin 2008 (2008-06-15) à 20h45, Suisse a joué contre le Portugal lors de groupe A. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 39730 spectateurs. Le score final était de 2 - 0. Le vainqueur était Suisse."
+    },
+    {
+        "contexte": "Le 15 juin 2008 (2008-06-15) à 20h45, Turquie a joué contre République tchèque lors de groupe A. Le match a eu lieu au Stade de Genève à Genève, avec une affluence de 29016 spectateurs. Le score final était de 3 - 2. Le vainqueur était Turquie."
+    },
+    {
+        "contexte": "Le 8 juin 2008 (08/06/2008) à 18h00, L'Autriche a joué contre Croatie lors de Groupe B. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 0 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 8 juin 2008 (08/06/2008) à 20h45, Allemagne a joué contre Pologne lors de Groupe B. Le match a eu lieu au Stade Worthersee à Klagenfurt, avec une affluence de 30461 spectateurs. Le score final était de 2 - 0. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 12 juin 2008 (2008-06-12) à 18h00, Croatie a joué contre Allemagne lors de Groupe B. Le match a eu lieu au Stade Worthersee à Klagenfurt, avec une affluence de 30461 spectateurs. Le score final était de 2 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 12 juin 2008 (2008-06-12) à 20h45, L'Autriche a joué contre Pologne lors de Groupe B. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 16 juin 2008 (16/06/2008) à 20h45, Pologne a joué contre Croatie lors de Groupe B. Le match a eu lieu au Stade Worthersee à Klagenfurt, avec une affluence de 30461 spectateurs. Le score final était de 0 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 16 juin 2008 (16/06/2008) à 20h45, L'Autriche a joué contre Allemagne lors de Groupe B. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 0 - 1. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 9 juin 2008 (09/06/2008) à 18h00, Roumanie a joué contre France lors de Groupe C. Le match a eu lieu au Letzigrund à Zurich, avec une affluence de 30585 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 9 juin 2008 (09/06/2008) à 20h45, Pays-Bas a joué contre Italie lors de Groupe C. Le match a eu lieu au Stade de Suisse à Berne, avec une affluence de 30777 spectateurs. Le score final était de 3 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 13 juin 2008 (2008-06-13) à 18h00, Italie a joué contre Roumanie lors de Groupe C. Le match a eu lieu au Letzigrund à Zurich, avec une affluence de 30585 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 13 juin 2008 (2008-06-13) à 20h45, Pays-Bas a joué contre France lors de Groupe C. Le match a eu lieu au Stade de Suisse à Berne, avec une affluence de 30777 spectateurs. Le score final était de 4 - 1. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 17 juin 2008 (17/06/2008) à 20h45, Pays-Bas a joué contre Roumanie lors de Groupe C. Le match a eu lieu au Stade de Suisse à Berne, avec une affluence de 30777 spectateurs. Le score final était de 2 - 0. Le vainqueur était Pays-Bas."
+    },
+    {
+        "contexte": "Le 17 juin 2008 (17/06/2008) à 20h45, France a joué contre Italie lors de Groupe C. Le match a eu lieu au Letzigrund à Zurich, avec une affluence de 30585 spectateurs. Le score final était de 0 - 2. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 10 juin 2008 (2008-06-10) à 18h00, Espagne a joué contre Russie lors de Groupe D. Le match a eu lieu au Tivoli-Neu à Innsbruck, avec une affluence de 30772 spectateurs. Le score final était de 4 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 10 juin 2008 (2008-06-10) à 20h45, Grèce a joué contre Suède lors de Groupe D. Le match a eu lieu au Stade Wals-Siezenheim à Salzbourg, avec une affluence de 31063 spectateurs. Le score final était de 0 - 2. Le vainqueur était Suède."
+    },
+    {
+        "contexte": "Le 14 juin 2008 (2008-06-14) à 18h00, Suède a joué contre Espagne lors de Groupe D. Le match a eu lieu au Tivoli-Neu à Innsbruck, avec une affluence de 30772 spectateurs. Le score final était de 1 - 2. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 14 juin 2008 (2008-06-14) à 20h45, Grèce a joué contre Russie lors de Groupe D. Le match a eu lieu au Stade Wals-Siezenheim à Salzbourg, avec une affluence de 31063 spectateurs. Le score final était de 0 - 1. Le vainqueur était Russie."
+    },
+    {
+        "contexte": "Le 18 juin 2008 (18/06/2008) à 20h45, Grèce a joué contre Espagne lors de Groupe D. Le match a eu lieu au Stade Wals-Siezenheim à Salzbourg, avec une affluence de 30883 spectateurs. Le score final était de 1 - 2. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 18 juin 2008 (18/06/2008) à 20h45, Russie a joué contre Suède lors de Groupe D. Le match a eu lieu au Tivoli-Neu à Innsbruck, avec une affluence de 30772 spectateurs. Le score final était de 2 - 0. Le vainqueur était Russie."
+    },
+    {
+        "contexte": "Le 19 juin 2008 (19/06/2008) à 20h45, le Portugal a joué contre Allemagne lors de Quarts de finale. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 39374 spectateurs. Le score final était de 2 - 3. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 20 juin 2008 (2008-06-20) à 20h45, Croatie a joué contre Turquie lors de Quarts de finale. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 21 juin 2008 (2008-06-21) à 20h45, Pays-Bas a joué contre Russie lors de Quarts de finale. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 38374 spectateurs. Le score final était de 1 - 3. Le vainqueur était Russie."
+    },
+    {
+        "contexte": "Le 22 juin 2008 (2008-06-22) à 20h45, Espagne a joué contre Italie lors de Quarts de finale. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51178 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 25 juin 2008 (2008-06-25) à 20h45, Allemagne a joué contre Turquie lors de Demi finales. Le match a eu lieu au Parc Saint-Jacques à Basele, avec une affluence de 39374 spectateurs. Le score final était de 3 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 26 juin 2008 (2008-06-26) à 20h45, Russie a joué contre Espagne lors de Demi finales. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 0 - 3. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 29 juin 2008 (2008-06-29) à 20h45, Allemagne a joué contre Espagne lors de Final. Le match a eu lieu au Stade Ernst-Happel à Vienne, avec une affluence de 51428 spectateurs. Le score final était de 0 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 8 juin 2012 (08/06/2012) à 18h00 CEST, Pologne a joué contre Grèce lors de groupe A. Le match a eu lieu au Stade national à Varsovie, avec une affluence de 56070 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 8 juin 2012 (08/06/2012) à 20h45 (heure de Paris), Russie a joué contre République tchèque lors de groupe A. Le match a eu lieu au Stade Miejski à Wroclaw, avec une affluence de 40803 spectateurs. Le score final était de 4 - 1. Le vainqueur était Russie."
+    },
+    {
+        "contexte": "Le 12 juin 2012 (12/06/2012) à 18h00 CEST, Grèce a joué contre République tchèque lors de groupe A. Le match a eu lieu au Stade Miejski à Wroclaw, avec une affluence de 41105 spectateurs. Le score final était de 1 - 2. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 12 juin 2012 (12/06/2012) à 20h45 (heure de Paris), Pologne a joué contre Russie lors de groupe A. Le match a eu lieu au Stade national à Varsovie, avec une affluence de 55920 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 16 juin 2012 (16/06/2012) à 20h45 (heure de Paris), République tchèque a joué contre Pologne lors de groupe A. Le match a eu lieu au Stade Miejski à Wroclaw, avec une affluence de 41480 spectateurs. Le score final était de 1 - 0. Le vainqueur était République tchèque."
+    },
+    {
+        "contexte": "Le 16 juin 2012 (16/06/2012) à 20h45 (heure de Paris), Grèce a joué contre Russie lors de groupe A. Le match a eu lieu au Stade national à Varsovie, avec une affluence de 55614 spectateurs. Le score final était de 1 - 0. Le vainqueur était Grèce."
+    },
+    {
+        "contexte": "Le 9 juin 2012 (09/06/2012) à 19h00 HNE, Pays-Bas a joué contre Danemark lors de Groupe B. Le match a eu lieu au Stade métaliste à Kharkiv, avec une affluence de 35923 spectateurs. Le score final était de 0 - 1. Le vainqueur était Danemark."
+    },
+    {
+        "contexte": "Le 9 juin 2012 (09/06/2012) à 21h45 HNE, Allemagne a joué contre le Portugal lors de Groupe B. Le match a eu lieu au Arène de Lviv à Lviv, avec une affluence de 32990 spectateurs. Le score final était de 1 - 0. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 13 juin 2012 (13/06/2012) à 19h00 HNE, Danemark a joué contre le Portugal lors de Groupe B. Le match a eu lieu au Arène de Lviv à Lviv, avec une affluence de 31840 spectateurs. Le score final était de 2 - 3. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 13 juin 2012 (13/06/2012) à 21h45 HNE, Pays-Bas a joué contre Allemagne lors de Groupe B. Le match a eu lieu au Stade métaliste à Kharkiv, avec une affluence de 37750 spectateurs. Le score final était de 1 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 17 juin 2012 (17/06/2012) à 21h45 HNE, le Portugal a joué contre Pays-Bas lors de Groupe B. Le match a eu lieu au Stade métaliste à Kharkiv, avec une affluence de 37445 spectateurs. Le score final était de 2 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 17 juin 2012 (17/06/2012) à 21h45 HNE, Danemark a joué contre Allemagne lors de Groupe B. Le match a eu lieu au Arène de Lviv à Lviv, avec une affluence de 32990 spectateurs. Le score final était de 1 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 10 juin 2012 (10/06/2012) à 18h00 CEST, Espagne a joué contre Italie lors de Groupe C. Le match a eu lieu au Arène PGE à Gdansk, avec une affluence de 38869 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 10 juin 2012 (10/06/2012) à 20h45 (heure de Paris), République d'Irlande a joué contre Croatie lors de Groupe C. Le match a eu lieu au Stade Miejski à Poznan, avec une affluence de 39550 spectateurs. Le score final était de 1 - 3. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 14 juin 2012 (14/06/2012) à 18h00 CEST, Italie a joué contre Croatie lors de Groupe C. Le match a eu lieu au Stade Miejski à Poznan, avec une affluence de 37096 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 14 juin 2012 (14/06/2012) à 20h45 (heure de Paris), Espagne a joué contre République d'Irlande lors de Groupe C. Le match a eu lieu au Arène PGE à Gdansk, avec une affluence de 39150 spectateurs. Le score final était de 4 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 18 juin 2012 (18/06/2012) à 20h45 (heure de Paris), Croatie a joué contre Espagne lors de Groupe C. Le match a eu lieu au Arène PGE à Gdansk, avec une affluence de 39076 spectateurs. Le score final était de 0 - 1. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 18 juin 2012 (18/06/2012) à 20h45 (heure de Paris), Italie a joué contre République d'Irlande lors de Groupe C. Le match a eu lieu au Stade Miejski à Poznan, avec une affluence de 38794 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 11 juin 2012 (2012-06-11) à 19h00 HNE, France a joué contre Angleterre lors de Groupe D. Le match a eu lieu au Arène du Donbass à Donetsk, avec une affluence de 47400 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 2012 (2012-06-11) à 21h45 HNE, Ukraine a joué contre Suède lors de Groupe D. Le match a eu lieu au Stade olympique à Kiev, avec une affluence de 64290 spectateurs. Le score final était de 2 - 1. Le vainqueur était Ukraine."
+    },
+    {
+        "contexte": "Le 15 juin 2012 (15/06/2012) à 19h00 HNE, Ukraine a joué contre France lors de Groupe D. Le match a eu lieu au Arène du Donbass à Donetsk, avec une affluence de 48000 spectateurs. Le score final était de 0 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 15 juin 2012 (15/06/2012) à 22h00 EEST[note 1], Suède a joué contre Angleterre lors de Groupe D. Le match a eu lieu au Stade olympique à Kiev, avec une affluence de 64640 spectateurs. Le score final était de 2 - 3. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 19 juin 2012 (19/06/2012) à 21h45 HNE, Angleterre a joué contre Ukraine lors de Groupe D. Le match a eu lieu au Arène du Donbass à Donetsk, avec une affluence de 48700 spectateurs. Le score final était de 1 - 0. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 19 juin 2012 (19/06/2012) à 21h45 HNE, Suède a joué contre France lors de Groupe D. Le match a eu lieu au Stade olympique à Kiev, avec une affluence de 63010 spectateurs. Le score final était de 2 - 0. Le vainqueur était Suède."
+    },
+    {
+        "contexte": "Le 21 juin 2012 (21/06/2012) à 20h45 (heure de Paris), République tchèque a joué contre le Portugal lors de Quarts de finale. Le match a eu lieu au Stade national à Varsovie, avec une affluence de 55590 spectateurs. Le score final était de 0 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 22 juin 2012 (2012-06-22) à 20h45 (heure de Paris), Allemagne a joué contre Grèce lors de Quarts de finale. Le match a eu lieu au Arène PGE à Gdansk, avec une affluence de 38751 spectateurs. Le score final était de 4 - 2. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 23 juin 2012 (23/06/2012) à 21h45 HNE, Espagne a joué contre France lors de Quarts de finale. Le match a eu lieu au Arène du Donbass à Donetsk, avec une affluence de 47000 spectateurs. Le score final était de 2 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 24 juin 2012 (2012-06-24) à 21h45 HNE, Angleterre a joué contre Italie lors de Quarts de finale. Le match a eu lieu au Stade olympique à Kiev, avec une affluence de 64340 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 27 juin 2012 (2012-06-27) à 21h45 HNE, le Portugal a joué contre Espagne lors de Demi finales. Le match a eu lieu au Arène du Donbass à Donetsk, avec une affluence de 48000 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 28 juin 2012 (2012-06-28) à 20h45 (heure de Paris), Allemagne a joué contre Italie lors de Demi finales. Le match a eu lieu au Stade national à Varsovie, avec une affluence de 55540 spectateurs. Le score final était de 1 - 2. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 1er juillet 2012 (01/07/2012) à 21h45 HNE, Espagne a joué contre Italie lors de Final. Le match a eu lieu au Stade olympique à Kiev, avec une affluence de 63170 spectateurs. Le score final était de 4 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 10 juin 2016 (10/06/2016) à 21h00, France a joué contre Roumanie lors de groupe A. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 75113 spectateurs. Le score final était de 2 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 11 juin 2016 (2016-06-11) à 15h00, Albanie a joué contre Suisse lors de groupe A. Le match a eu lieu au Stade Bollaert-Delelis à Lentille, avec une affluence de 33805 spectateurs. Le score final était de 0 - 1. Le vainqueur était Suisse."
+    },
+    {
+        "contexte": "Le 15 juin 2016 (15/06/2016) à 18h00, Roumanie a joué contre Suisse lors de groupe A. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 43576 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 15 juin 2016 (15/06/2016) à 21h00, France a joué contre Albanie lors de groupe A. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 63670 spectateurs. Le score final était de 2 - 0. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 19 juin 2016 (19/06/2016) à 21h00, Roumanie a joué contre Albanie lors de groupe A. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 49752 spectateurs. Le score final était de 0 - 1. Le vainqueur était Albanie."
+    },
+    {
+        "contexte": "Le 19 juin 2016 (19/06/2016) à 21h00, Suisse a joué contre France lors de groupe A. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 45616 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 11 juin 2016 (2016-06-11) à 18h00, Pays de Galles a joué contre Slovaquie lors de Groupe B. Le match a eu lieu au Nouveau Stade de Bordeaux à Bordeaux, avec une affluence de 37831 spectateurs. Le score final était de 2 - 1. Le vainqueur était Pays de Galles."
+    },
+    {
+        "contexte": "Le 11 juin 2016 (2016-06-11) à 21h00, Angleterre a joué contre Russie lors de Groupe B. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 62343 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 15 juin 2016 (15/06/2016) à 15h00, Russie a joué contre Slovaquie lors de Groupe B. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 38989 spectateurs. Le score final était de 1 - 2. Le vainqueur était Slovaquie."
+    },
+    {
+        "contexte": "Le 16 juin 2016 (16/06/2016) à 15h00, Angleterre a joué contre Pays de Galles lors de Groupe B. Le match a eu lieu au Stade Bollaert-Delelis à Lentille, avec une affluence de 34033 spectateurs. Le score final était de 2 - 1. Le vainqueur était Angleterre."
+    },
+    {
+        "contexte": "Le 20 juin 2016 (20/06/2016) à 21h00, Russie a joué contre Pays de Galles lors de Groupe B. Le match a eu lieu au Stade Municipal à Toulouse, avec une affluence de 28840 spectateurs. Le score final était de 0 - 3. Le vainqueur était Pays de Galles."
+    },
+    {
+        "contexte": "Le 20 juin 2016 (20/06/2016) à 21h00, Slovaquie a joué contre Angleterre lors de Groupe B. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 39051 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 12 juin 2016 (2016-06-12) à 18h00, Pologne a joué contre Irlande du Nord lors de Groupe C. Le match a eu lieu au Stade de Nice à Bon, avec une affluence de 33742 spectateurs. Le score final était de 1 - 0. Le vainqueur était Pologne."
+    },
+    {
+        "contexte": "Le 12 juin 2016 (2016-06-12) à 21h00, Allemagne a joué contre Ukraine lors de Groupe C. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 43035 spectateurs. Le score final était de 2 - 0. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 16 juin 2016 (16/06/2016) à 18h00, Ukraine a joué contre Irlande du Nord lors de Groupe C. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 51043 spectateurs. Le score final était de 0 - 2. Le vainqueur était Irlande du Nord."
+    },
+    {
+        "contexte": "Le 16 juin 2016 (16/06/2016) à 21h00, Allemagne a joué contre Pologne lors de Groupe C. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 73648 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 21 juin 2016 (21/06/2016) à 18h00, Ukraine a joué contre Pologne lors de Groupe C. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 58874 spectateurs. Le score final était de 0 - 1. Le vainqueur était Pologne."
+    },
+    {
+        "contexte": "Le 21 juin 2016 (21/06/2016) à 18h00, Irlande du Nord a joué contre Allemagne lors de Groupe C. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 44125 spectateurs. Le score final était de 0 - 1. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 12 juin 2016 (2016-06-12) à 15h00, Turquie a joué contre Croatie lors de Groupe D. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 43842 spectateurs. Le score final était de 0 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 13 juin 2016 (13/06/2016) à 15h00, Espagne a joué contre République tchèque lors de Groupe D. Le match a eu lieu au Stade Municipal à Toulouse, avec une affluence de 29400 spectateurs. Le score final était de 1 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 17 juin 2016 (17/06/2016) à 18h00, République tchèque a joué contre Croatie lors de Groupe D. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 38376 spectateurs. Le score final était de 2 - 2. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 17 juin 2016 (17/06/2016) à 21h00, Espagne a joué contre Turquie lors de Groupe D. Le match a eu lieu au Stade de Nice à Bon, avec une affluence de 33409 spectateurs. Le score final était de 3 - 0. Le vainqueur était Espagne."
+    },
+    {
+        "contexte": "Le 21 juin 2016 (21/06/2016) à 21h00, République tchèque a joué contre Turquie lors de Groupe D. Le match a eu lieu au Stade Bollaert-Delelis à Lentille, avec une affluence de 32836 spectateurs. Le score final était de 0 - 2. Le vainqueur était Turquie."
+    },
+    {
+        "contexte": "Le 21 juin 2016 (21/06/2016) à 21h00, Croatie a joué contre Espagne lors de Groupe D. Le match a eu lieu au Nouveau Stade de Bordeaux à Bordeaux, avec une affluence de 37245 spectateurs. Le score final était de 2 - 1. Le vainqueur était Croatie."
+    },
+    {
+        "contexte": "Le 13 juin 2016 (13/06/2016) à 18h00, République d'Irlande a joué contre Suède lors de Groupe E. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 73419 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 13 juin 2016 (13/06/2016) à 21h00, Belgique a joué contre Italie lors de Groupe E. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 55408 spectateurs. Le score final était de 0 - 2. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 17 juin 2016 (17/06/2016) à 15h00, Italie a joué contre Suède lors de Groupe E. Le match a eu lieu au Stade Municipal à Toulouse, avec une affluence de 29600 spectateurs. Le score final était de 1 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 18 juin 2016 (18/06/2016) à 15h00, Belgique a joué contre République d'Irlande lors de Groupe E. Le match a eu lieu au Nouveau Stade de Bordeaux à Bordeaux, avec une affluence de 39493 spectateurs. Le score final était de 3 - 0. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 22 juin 2016 (22/06/2016) à 21h00, Italie a joué contre République d'Irlande lors de Groupe E. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 44268 spectateurs. Le score final était de 0 - 1. Le vainqueur était République d'Irlande."
+    },
+    {
+        "contexte": "Le 22 juin 2016 (22/06/2016) à 21h00, Suède a joué contre Belgique lors de Groupe E. Le match a eu lieu au Stade de Nice à Bon, avec une affluence de 34011 spectateurs. Le score final était de 0 - 1. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 14 juin 2016 (2016-06-14) à 18h00, L'Autriche a joué contre Hongrie lors de Groupe F. Le match a eu lieu au Nouveau Stade de Bordeaux à Bordeaux, avec une affluence de 34424 spectateurs. Le score final était de 0 - 2. Le vainqueur était Hongrie."
+    },
+    {
+        "contexte": "Le 14 juin 2016 (2016-06-14) à 21h00, le Portugal a joué contre Islande lors de Groupe F. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 38742 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 2016 (18/06/2016) à 18h00, Islande a joué contre Hongrie lors de Groupe F. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 60842 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 18 juin 2016 (18/06/2016) à 21h00, le Portugal a joué contre L'Autriche lors de Groupe F. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 44291 spectateurs. Le score final était de 0 - 0. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 22 juin 2016 (22/06/2016) à 18h00, Islande a joué contre L'Autriche lors de Groupe F. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 68714 spectateurs. Le score final était de 2 - 1. Le vainqueur était Islande."
+    },
+    {
+        "contexte": "Le 22 juin 2016 (22/06/2016) à 18h00, Hongrie a joué contre le Portugal lors de Groupe F. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 55514 spectateurs. Le score final était de 3 - 3. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 25 juin 2016 (2016-06-25) à 15h00, Suisse a joué contre Pologne lors de Huitièmes de finale. Le match a eu lieu au Stade Geoffroy-Guichard à Saint-Etienne, avec une affluence de 38842 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 25 juin 2016 (2016-06-25) à 18h00, Pays de Galles a joué contre Irlande du Nord lors de Huitièmes de finale. Le match a eu lieu au Parc des Princes à Paris, avec une affluence de 44342 spectateurs. Le score final était de 1 - 0. Le vainqueur était Pays de Galles."
+    },
+    {
+        "contexte": "Le 25 juin 2016 (2016-06-25) à 21h00, Croatie a joué contre le Portugal lors de Huitièmes de finale. Le match a eu lieu au Stade Bollaert-Delelis à Lentille, avec une affluence de 33523 spectateurs. Le score final était de 0 - 1. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 26 juin 2016 (2016-06-26) à 15h00, France a joué contre République d'Irlande lors de Huitièmes de finale. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 56279 spectateurs. Le score final était de 2 - 1. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 26 juin 2016 (2016-06-26) à 18h00, Allemagne a joué contre Slovaquie lors de Huitièmes de finale. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 44312 spectateurs. Le score final était de 3 - 0. Le vainqueur était Allemagne."
+    },
+    {
+        "contexte": "Le 26 juin 2016 (2016-06-26) à 21h00, Hongrie a joué contre Belgique lors de Huitièmes de finale. Le match a eu lieu au Stade Municipal à Toulouse, avec une affluence de 28921 spectateurs. Le score final était de 0 - 4. Le vainqueur était Belgique."
+    },
+    {
+        "contexte": "Le 27 juin 2016 (2016-06-27) à 18h00, Italie a joué contre Espagne lors de Huitièmes de finale. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 76165 spectateurs. Le score final était de 2 - 0. Le vainqueur était Italie."
+    },
+    {
+        "contexte": "Le 27 juin 2016 (2016-06-27) à 21h00, Angleterre a joué contre Islande lors de Huitièmes de finale. Le match a eu lieu au Stade de Nice à Bon, avec une affluence de 33901 spectateurs. Le score final était de 1 - 2. Le vainqueur était Islande."
+    },
+    {
+        "contexte": "Le 30 juin 2016 (30/06/2016) à 21h00, Pologne a joué contre le Portugal lors de Quarts de finale. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 62940 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 1er juillet 2016 (01/07/2016) à 21h00, Pays de Galles a joué contre Belgique lors de Quarts de finale. Le match a eu lieu au Stade Pierre Mauroy à Villeneuve-d'Ascq, avec une affluence de 45936 spectateurs. Le score final était de 3 - 1. Le vainqueur était Pays de Galles."
+    },
+    {
+        "contexte": "Le 2 juillet 2016 (02/07/2016) à 21h00, Allemagne a joué contre Italie lors de Quarts de finale. Le match a eu lieu au Nouveau Stade de Bordeaux à Bordeaux, avec une affluence de 38764 spectateurs. Le score final était de 1 - 1. Le match s'est terminé par un match nul."
+    },
+    {
+        "contexte": "Le 3 juillet 2016 (03/07/2016) à 21h00, France a joué contre Islande lors de Quarts de finale. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 76833 spectateurs. Le score final était de 5 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 6 juillet 2016 (06/07/2016) à 21h00, le Portugal a joué contre Pays de Galles lors de Demi finales. Le match a eu lieu au Parc Olympique Lyonnais à Décines Charpieu, avec une affluence de 55679 spectateurs. Le score final était de 2 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le 7 juillet 2016 (07/07/2016) à 21h00, Allemagne a joué contre France lors de Demi finales. Le match a eu lieu au Stade Vélodrome à Marseille, avec une affluence de 64078 spectateurs. Le score final était de 0 - 2. Le vainqueur était France."
+    },
+    {
+        "contexte": "Le 10 juillet 2016 (10/07/2016) à 21h00, le Portugal a joué contre France lors de Final. Le match a eu lieu au Stade de France à Saint Denis, avec une affluence de 75868 spectateurs. Le score final était de 1 - 0. Le vainqueur était le Portugal."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA, communément appelé l'Euro, est la principale compétition de football associatif disputée par les équipes nationales masculines seniors des membres de l'Union des associations européennes de football (UEFA)."
+    },
+    {
+        "contexte": "Le premier tournoi a eu lieu en 1960 en France et a été remporté par l'Union soviétique."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1964 s'est tenu en Espagne, et la nation hôte, l'Espagne, a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1968 a eu lieu en Italie, et le pays hôte, l'Italie, a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1972 s'est tenu en Belgique, et l'Allemagne de l'Ouest a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1976 a eu lieu en Yougoslavie, et la Tchécoslovaquie a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1980 s'est tenu en Italie, et l'Allemagne de l'Ouest a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1984 a eu lieu en France, et la France a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1988 s'est tenu en Allemagne de l'Ouest, et les Pays-Bas ont remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1992 a eu lieu en Suède, et le Danemark a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 1996 s'est tenu en Angleterre, et l'Allemagne a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2000 a eu lieu en Belgique et aux Pays-Bas, et la France a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2004 s'est tenu au Portugal, et la Grèce a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2008 a eu lieu en Autriche et en Suisse, et l'Espagne a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2012 s'est tenu en Pologne et en Ukraine, et l'Espagne a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2016 a eu lieu en France, et le Portugal a remporté le tournoi."
+    },
+    {
+        "contexte": "Le Championnat d'Europe de l'UEFA 2020 s'est tenu dans plusieurs pays européens en raison du 60e anniversaire de la compétition, et l'Italie a remporté le tournoi."
+    },
+    {
+        "contexte": "L'Allemagne détient le record du plus grand nombre de titres de l'Euro Championship, avec 3 victoires."
+    },
+    {
+        "contexte": "Cristiano Ronaldo détient le record du plus grand nombre de buts marqués dans l'histoire de l'Euro Championship, avec 14 buts."
+    },
+    {
+        "contexte": "L'Allemagne, la France et l'Espagne partagent le record du plus grand nombre de participations à l'Euro Championship, avec 13 participations chacune."
+    },
+    {
+        "contexte": "Le Portugal a remporté l'Euro Championship en 2016, enregistrant sa première victoire dans le tournoi."
+    },
+    {
+        "contexte": "L'Italie a remporté l'Euro Championship en 2020, marquant son deuxième titre dans l'histoire du tournoi."
+    },
+    {
+        "contexte": "Le tournoi de l'Euro Championship 2024 se tiendra en France."
+    },
+    {
+        "contexte": "L'Euro Championship est le deuxième plus grand tournoi de football international après la Coupe du Monde de la FIFA."
+    },
+    {
+        "contexte": "La première édition de l'Euro Championship a eu lieu en 1960, et a été remportée par l'Union soviétique."
+    },
+    {
+        "contexte": "L'Euro Championship 1992 a été remporté par le Danemark, qui n'était pas initialement qualifié pour le tournoi mais a participé en raison de l'exclusion de la Yougoslavie pour cause de guerre civile."
+    },
+    {
+        "contexte": "L'Euro Championship 2000 a vu la France remporter le tournoi grâce à un but en or de David Trezeguet lors de la finale contre l'Italie."
+    },
+    {
+        "contexte": "En 2004, la Grèce a créé la surprise en remportant l'Euro Championship contre toutes attentes, battant le Portugal en finale."
+    },
+    {
+        "contexte": "L'Euro Championship 2020 a été reporté d'un an en raison de la pandémie de COVID-19, et s'est déroulé dans plusieurs pays pour marquer le 60e anniversaire de la compétition."
+    },
+    {
+        "contexte": "Le Ballon d'Or du meilleur joueur de l'Euro Championship est décerné à la fin de chaque tournoi depuis 1960."
+    },
+    {
+        "contexte": "L'édition de l'Euro Championship 1988 a été marquée par le brillant parcours des Pays-Bas, qui ont remporté le tournoi avec une équipe comprenant des légendes comme Ruud Gullit et Marco van Basten."
+    },
+    {
+        "contexte": "L'Euro Championship 1976 a vu la Tchécoslovaquie remporter le titre après une finale tendue et une séance de tirs au but contre l'Allemagne de l'Ouest."
+    },
+    {
+        "contexte": "Le nombre d'équipes participantes à l'Euro Championship est passé de 4 lors de la première édition en 1960 à 24 lors de l'édition 2016."
+    },
+    {
+        "contexte": "Le format de l'Euro Championship a subi plusieurs changements au fil des années, notamment l'introduction de la phase de groupes en 1980 et l'expansion du nombre d'équipes qualifiées."
+    },
+    {
+        "contexte": "L'Euro Championship 2012 a été co-organisé par la Pologne et l'Ukraine, marquant la première fois que ces deux pays ont accueilli un grand tournoi international de football."
+    },
+    {
+        "contexte": "L'édition de l'Euro Championship 2008 a vu l'Espagne remporter le titre pour la première fois depuis 1964, marquant le début d'une période de domination pour l'équipe espagnole."
+    },
+    {
+        "contexte": "L'Euro Championship 2024 marquera la 17e édition du tournoi, qui continue d'être un événement majeur dans le monde du football."
+    }
+]
